@@ -1,0 +1,7 @@
+
+.DS_Store
+.idea/
+turtle-crossing-start/.DS_Store
+turtle-crossing-start/__pycache__/car_manager.cpython-310.pyc
+turtle-crossing-start/__pycache__/player.cpython-310.pyc
+turtle-crossing-start/__pycache__/scoreboard.cpython-310.pyc
